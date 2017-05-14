@@ -298,6 +298,7 @@ h3 {
 }
   .menu {
     bottom: 30%;
+    margin-left: 25%
   }
 
   .about .container {
@@ -310,6 +311,13 @@ h3 {
 
   .photo {
     margin-left: 0;
+  }
+
+}
+
+@media (max-width: 420px) {
+  .now {
+    margin-top: 200px;
   }
 
 }
