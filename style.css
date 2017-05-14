@@ -269,13 +269,14 @@ h3 {
 @media (max-width: 992px) {
 
   .menu {
-    margin-left: calc(50% - 40px);
     bottom: 10%;
+    margin-left: 50%;
   }
 
   .menu > a {
     display: block;
     padding: 10px;
+
   }
 
   .header h1 {
@@ -292,6 +293,9 @@ h3 {
   }
 
 
+.now {
+  margin-top: 125px;;
+}
   .menu {
     bottom: 30%;
   }
